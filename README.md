@@ -1,9 +1,9 @@
-# Edujar LMS Server
+# Online Education platform
 
 Build an online learning platform with user registration, course creation, video streaming, and progress tracking.
 
-Postman Documentation: https://documenter.getpostman.com/view/15226030/2s9YeHaWTv
-Live https://e-learning-server-three.vercel.app
+Postman Documentation: 
+Live https://e-learning-server-eu4f.onrender.com
 
 ## Student Features:
 
